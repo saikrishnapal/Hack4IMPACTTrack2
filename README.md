@@ -19,6 +19,6 @@ Machine Learning: YOLOv8 (Ultralytics) OpenCV
 
 📂 Project Structure Sky-Guardian/ │ ├── backend/ │ ├── app.py │ └── data.csv │ ├── ml/ │ ├── detection.py │ └── model files │ ├── frontend/ │ └── index.html │ └── README.md
 
-⚙️ Installation & Setup Clone the repository git clone https://github.com/SanviShan25/Hack4IMPACTTrack2-SKY-GUARDIANS cd sky-guardian Install dependencies pip install -r requirements.txt Run backend cd backend python app.py Run ML model cd ml python detection.py Open frontend Open index.html in your browser
+⚙️ Installation & Setup Clone the repository git clone https://github.com/saikrishnapal/Hack4IMPACTTrack2 cd sky-guardian Install dependencies pip install -r requirements.txt Run backend cd backend python app.py Run ML model cd ml python detection.py Open frontend Open index.html in your browser
 
 👥 Team Saikrishna Pal – Hardware (Drone) Sanvi Shan – Software (Frontend, Backend, ML Integration) Sakshi – Research and Development Alok Kumar Sharma – Research and Development
